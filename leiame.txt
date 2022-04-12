@@ -1,0 +1,4 @@
+1. Crie um banco de dados com o nome provahugo
+2. importe o arquivo sql disponível na pasta 1-banco para o banco criado
+3. execute o arquivo 0 - iniciar.bat na raiz do projeto
+4. abra o navegador e rode localhost:9000
